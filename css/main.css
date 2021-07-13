@@ -24,15 +24,25 @@ h1{
     border: 0px;
 }
 
+.bottom-texts{
+
+}
+
+.bottom-texts > a{
+    color: #fff;
+}
+
 a{
     
 }
 
 .right-column{
     width: 60%;
-    float: right;
+    float: left;
     background-color: #fff;
 }
 
+.close{
 
+}
 
