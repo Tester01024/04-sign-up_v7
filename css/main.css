@@ -27,11 +27,7 @@ h1{
     border: 0px;
 }
 
-.bottom-texts{
-
-}
-
-.bottom-texts > a{
+.bottom-texts >a {
     color: #fff;
 }
 
@@ -42,10 +38,22 @@ a{
 .right-column{
     width: 60%;
     float: left;
+    padding: 40px;
     background-color: #fff;
+    position: relative;
 }
 
 .close{
-
+    height: 60px;
+    width: 60px;
+    float: right;
+    /* margin-left: 360px; */
+    /* margin-bottom: 69px; */
+    background-color: red;
+    text-align: center;
+    line-height: 60px;
+    position: absolute;
+    top: 0%;
+    right: 0%;
 }
 
