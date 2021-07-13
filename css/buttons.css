@@ -1,0 +1,20 @@
+
+
+btn {
+    font-size: 20px;
+    text-transform: capitalize;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    background-color: #005dd8;
+    color: #fff;
+    background: linear-gradient(53deg, #214bd5 0%, #0065d9 100%);
+    border: none;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background: #005dd8;
+    background: linear-gradient(53deg, #0065d9 100%, #214bd5 0%);
+}
